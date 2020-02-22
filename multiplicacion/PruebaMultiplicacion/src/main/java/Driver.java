@@ -11,6 +11,7 @@ public class Driver {
 		prueba.setY(40);
 		
 		System.out.println(prueba);
+		System.out.println("se ha realizado la prueba");
 	}
 
 }
